@@ -1,6 +1,6 @@
 '''
 Name: Kevin, Wilson, Mark Johnson, Brett Perez
-email: perezbd@mail.uc.edu
+email: perezbd@mail.uc.edu, johns8mk@mail.uc.edu
 Assignment: Assignment 09
 Course: IS 4010
 Semester/Year: Fall 2022
